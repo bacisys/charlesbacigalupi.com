@@ -1810,8 +1810,6 @@
     .about-grid { grid-template-columns: 1fr; gap: 48px; }
     .reviews-grid { grid-template-columns: 1fr; gap: 48px; }
     .rating-number { font-size: 72px; }
-    .ref-table-wrap { overflow-x: auto; }
-    .ref-table { min-width: 640px; }
     .resources-header { flex-direction: column; align-items: flex-start; }
     .market-grid { grid-template-columns: 1fr; gap: 56px; }
     .market-content { padding-right: 0; }
@@ -1826,6 +1824,146 @@
     .trust-item:nth-child(even) { border-right: none; padding-right: 0; }
     .trust-item:nth-child(-n+2) { padding-bottom: 24px; border-bottom: 1px solid var(--line); margin-bottom: 24px; }
   }
+
+  /* ==========================================================
+     PHONE/TABLET: Reference tables convert to readable cards
+     Triggers at 900px to ensure tablets in portrait also benefit
+     ========================================================== */
+  @media (max-width: 900px) {
+    /* Wrapper: remove constraints, allow content to flow */
+    .ref-table-wrap {
+      overflow: visible !important;
+    }
+
+    /* Table loses its tabular structure entirely */
+    .ref-table,
+    .ref-table thead,
+    .ref-table tbody,
+    .ref-table tr,
+    .ref-table th,
+    .ref-table td {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      box-sizing: border-box !important;
+    }
+
+    /* Hide the table headers (they'll appear as data-labels above each cell) */
+    .ref-table thead {
+      display: none !important;
+    }
+
+    /* Each row becomes a bordered card */
+    .ref-table tr {
+      padding: 20px !important;
+      margin: 0 !important;
+      border: none !important;
+      border-bottom: 1px solid rgba(244, 241, 234, 0.08) !important;
+      background: transparent !important;
+    }
+    .ref-table tr:last-child {
+      border-bottom: none !important;
+    }
+    .ref-table tr:hover,
+    .ref-table tr:hover td {
+      background: transparent !important;
+    }
+
+    /* Reset cell padding */
+    .ref-table td {
+      padding: 12px 0 !important;
+      border: none !important;
+      white-space: normal !important;
+      vertical-align: top !important;
+      text-align: left !important;
+    }
+    .ref-table td:first-child {
+      padding-top: 0 !important;
+    }
+    .ref-table td:last-child {
+      padding-bottom: 0 !important;
+    }
+
+    /* Program cell (first cell): big bold header for the card */
+    .ref-table .program-cell {
+      font-family: 'Fraunces', serif !important;
+      font-size: 22px !important;
+      line-height: 1.2 !important;
+      color: var(--bone) !important;
+      font-weight: 400 !important;
+      padding-bottom: 16px !important;
+      margin-bottom: 4px !important;
+      border-bottom: 1px solid rgba(244, 241, 234, 0.1) !important;
+    }
+    .ref-table .program-cell .program-cell-sub {
+      display: block !important;
+      font-family: 'Inter', sans-serif !important;
+      font-size: 11px !important;
+      color: var(--charcoal-300) !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.1em !important;
+      margin-top: 4px !important;
+      font-weight: 400 !important;
+    }
+
+    /* Data labels appear above each cell value */
+    .ref-table td[data-label]::before {
+      content: attr(data-label);
+      display: block !important;
+      font-size: 10px !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.16em !important;
+      color: var(--warm) !important;
+      margin-bottom: 6px !important;
+      font-weight: 600 !important;
+      font-family: 'Inter', sans-serif !important;
+    }
+
+    /* Value cells: copper, prominent */
+    .ref-table .value {
+      font-family: 'Fraunces', serif !important;
+      font-size: 18px !important;
+      line-height: 1.4 !important;
+      color: var(--warm) !important;
+      white-space: normal !important;
+    }
+
+    /* Note cells: smaller, lighter, italic feel */
+    .ref-table .note {
+      font-size: 13.5px !important;
+      line-height: 1.55 !important;
+      color: var(--charcoal-200) !important;
+    }
+
+    /* Header section adjustments */
+    .ref-table-head {
+      flex-direction: column !important;
+      align-items: flex-start !important;
+      padding: 20px !important;
+      gap: 14px !important;
+    }
+    .ref-table-title {
+      font-size: 19px !important;
+      line-height: 1.25 !important;
+    }
+    .ref-table-title-sub {
+      font-size: 10px !important;
+    }
+    .copy-link-btn {
+      width: 100% !important;
+      justify-content: center !important;
+      padding: 11px !important;
+      font-size: 12px !important;
+    }
+
+    /* Footer adjustments */
+    .ref-table-footer {
+      padding: 16px 20px !important;
+      font-size: 12.5px !important;
+      line-height: 1.55 !important;
+    }
+  }
+
   @media (max-width: 560px) {
     .top-banner { font-size: 11px; }
     .top-banner .badges { gap: 16px; }
@@ -2500,39 +2638,39 @@
         <tbody>
           <tr>
             <td class="program-cell">Conventional<span class="program-cell-sub">Fannie / Freddie</span></td>
-            <td class="value">4 years</td>
-            <td class="value">2 years from discharge<br>4 years from dismissal</td>
-            <td class="note">Re-established credit and no late payments since BK.</td>
+            <td class="value" data-label="Chapter 7">4 years</td>
+            <td class="value" data-label="Chapter 13">2 years from discharge<br>4 years from dismissal</td>
+            <td class="note" data-label="Notes">Re-established credit and no late payments since BK.</td>
           </tr>
           <tr>
             <td class="program-cell">FHA<span class="program-cell-sub">Government-insured</span></td>
-            <td class="value">2 years</td>
-            <td class="value">1 year of on-time payments<br>(with court approval)</td>
-            <td class="note">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
+            <td class="value" data-label="Chapter 7">2 years</td>
+            <td class="value" data-label="Chapter 13">1 year of on-time payments<br>(with court approval)</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
           </tr>
           <tr>
             <td class="program-cell">VA<span class="program-cell-sub">Veterans Affairs</span></td>
-            <td class="value">2 years</td>
-            <td class="value">1 year of on-time payments<br>(with court approval)</td>
-            <td class="note">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
+            <td class="value" data-label="Chapter 7">2 years</td>
+            <td class="value" data-label="Chapter 13">1 year of on-time payments<br>(with court approval)</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
           </tr>
           <tr>
             <td class="program-cell">USDA<span class="program-cell-sub">Rural Development</span></td>
-            <td class="value">3 years</td>
-            <td class="value">1 year of on-time payments<br>(with court approval)</td>
-            <td class="note">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
+            <td class="value" data-label="Chapter 7">3 years</td>
+            <td class="value" data-label="Chapter 13">1 year of on-time payments<br>(with court approval)</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
           </tr>
           <tr>
             <td class="program-cell">Jumbo<span class="program-cell-sub">Non-conforming</span></td>
-            <td class="value">4–7 years</td>
-            <td class="value">4–7 years</td>
-            <td class="note">Varies significantly by lender; reserves often required.</td>
+            <td class="value" data-label="Chapter 7">4–7 years</td>
+            <td class="value" data-label="Chapter 13">4–7 years</td>
+            <td class="note" data-label="Notes">Varies significantly by lender; reserves often required.</td>
           </tr>
           <tr>
             <td class="program-cell">Non-QM<span class="program-cell-sub">Alt-doc programs</span></td>
-            <td class="value">1 day – 2 years</td>
-            <td class="value">1 day – 2 years</td>
-            <td class="note">Some Non-QM lenders allow financing 1 day out of BK with higher down payment.</td>
+            <td class="value" data-label="Chapter 7">1 day – 2 years</td>
+            <td class="value" data-label="Chapter 13">1 day – 2 years</td>
+            <td class="note" data-label="Notes">Some Non-QM lenders allow financing 1 day out of BK with higher down payment.</td>
           </tr>
         </tbody>
       </table>
@@ -2565,33 +2703,33 @@
         <tbody>
           <tr>
             <td class="program-cell">Conventional<span class="program-cell-sub">Owner-occupied</span></td>
-            <td class="value">3%</td>
-            <td class="value">6%</td>
-            <td class="value">9% / 2% (investment)</td>
+            <td class="value" data-label="Primary < 10% Down">3%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">9% / 2% (investment)</td>
           </tr>
           <tr>
             <td class="program-cell">FHA<span class="program-cell-sub">Government-insured</span></td>
-            <td class="value">6%</td>
-            <td class="value">6%</td>
-            <td class="value">6%</td>
+            <td class="value" data-label="Primary < 10% Down">6%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">6%</td>
           </tr>
           <tr>
             <td class="program-cell">VA<span class="program-cell-sub">Veterans Affairs</span></td>
-            <td class="value">4% (concessions)<br>+ unlimited closing costs</td>
-            <td class="value">4% (concessions)<br>+ unlimited closing costs</td>
-            <td class="value">N/A — primary only</td>
+            <td class="value" data-label="Primary < 10% Down">4% (concessions)<br>+ unlimited closing costs</td>
+            <td class="value" data-label="Primary 10–25% Down">4% (concessions)<br>+ unlimited closing costs</td>
+            <td class="value" data-label="Primary 25%+ / Investment">N/A — primary only</td>
           </tr>
           <tr>
             <td class="program-cell">USDA<span class="program-cell-sub">Rural Development</span></td>
-            <td class="value">6%</td>
-            <td class="value">6%</td>
-            <td class="value">N/A — primary only</td>
+            <td class="value" data-label="Primary < 10% Down">6%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">N/A — primary only</td>
           </tr>
           <tr>
             <td class="program-cell">Jumbo<span class="program-cell-sub">Non-conforming</span></td>
-            <td class="value">3%</td>
-            <td class="value">6%</td>
-            <td class="value">9%</td>
+            <td class="value" data-label="Primary < 10% Down">3%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">9%</td>
           </tr>
         </tbody>
       </table>
@@ -2624,39 +2762,39 @@
         <tbody>
           <tr>
             <td class="program-cell">Conventional<span class="program-cell-sub">Fannie / Freddie</span></td>
-            <td class="value">7 years</td>
-            <td class="value">4 years</td>
-            <td class="note">Reduced to 3 years for foreclosure with documented extenuating circumstances.</td>
+            <td class="value" data-label="Foreclosure">7 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">4 years</td>
+            <td class="note" data-label="Notes">Reduced to 3 years for foreclosure with documented extenuating circumstances.</td>
           </tr>
           <tr>
             <td class="program-cell">FHA<span class="program-cell-sub">Government-insured</span></td>
-            <td class="value">3 years</td>
-            <td class="value">3 years</td>
-            <td class="note">Extenuating circumstances may waive entirely. Borrower must be current at short sale.</td>
+            <td class="value" data-label="Foreclosure">3 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">3 years</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may waive entirely. Borrower must be current at short sale.</td>
           </tr>
           <tr>
             <td class="program-cell">VA<span class="program-cell-sub">Veterans Affairs</span></td>
-            <td class="value">2 years</td>
-            <td class="value">2 years</td>
-            <td class="note">Prior VA foreclosure may reduce remaining entitlement.</td>
+            <td class="value" data-label="Foreclosure">2 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">2 years</td>
+            <td class="note" data-label="Notes">Prior VA foreclosure may reduce remaining entitlement.</td>
           </tr>
           <tr>
             <td class="program-cell">USDA<span class="program-cell-sub">Rural Development</span></td>
-            <td class="value">3 years</td>
-            <td class="value">3 years</td>
-            <td class="note">Federal debt (CAIVRS) clearance required.</td>
+            <td class="value" data-label="Foreclosure">3 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">3 years</td>
+            <td class="note" data-label="Notes">Federal debt (CAIVRS) clearance required.</td>
           </tr>
           <tr>
             <td class="program-cell">Jumbo<span class="program-cell-sub">Non-conforming</span></td>
-            <td class="value">7 years</td>
-            <td class="value">4–7 years</td>
-            <td class="note">Lender-specific overlays often apply; reserves typically required.</td>
+            <td class="value" data-label="Foreclosure">7 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">4–7 years</td>
+            <td class="note" data-label="Notes">Lender-specific overlays often apply; reserves typically required.</td>
           </tr>
           <tr>
             <td class="program-cell">Non-QM<span class="program-cell-sub">Alt-doc programs</span></td>
-            <td class="value">1 day – 3 years</td>
-            <td class="value">1 day – 3 years</td>
-            <td class="note">"1-day-out" programs available with stronger down payment and pricing.</td>
+            <td class="value" data-label="Foreclosure">1 day – 3 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">1 day – 3 years</td>
+            <td class="note" data-label="Notes">"1-day-out" programs available with stronger down payment and pricing.</td>
           </tr>
         </tbody>
       </table>
