@@ -1,0 +1,2614 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Quick-reference loan program guidelines for Realtors — bankruptcy waiting periods, seller concession limits, and foreclosure timelines. Powered by Charles Bacigalupi, Mortgage Loan Originator at Barrett Financial Group, NMLS #1909129." />
+<meta name="keywords" content="mortgage loan officer, Charles Bacigalupi, Barrett Financial, FHA loan, VA loan, conventional mortgage, jumbo loan, refinance, reverse mortgage, HECM, Non-QM loan, bank statement loan, DSCR loan, bridge loan, fix and flip, self-employed mortgage, first-time homebuyer, mortgage broker, NMLS 1909129, home loan, mortgage calculator" />
+<meta property="og:title" content="For Realtors · Quick Reference Guidelines | Check with Chuck" />
+<meta property="og:description" content="Bookmark-worthy reference guidelines for the questions that come up mid-transaction. Bankruptcy, seller concessions, and foreclosure timelines by loan program." />
+<meta property="og:type" content="website" />
+<meta name="robots" content="index, follow" />
+
+<!-- JSON-LD Structured Data: Optimized for Google + AI Search (ChatGPT, Perplexity, AI Overviews) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "#charles",
+      "name": "Charles Peter Bacigalupi III",
+      "alternateName": "Chuck Bacigalupi",
+      "jobTitle": "Mortgage Loan Originator",
+      "telephone": "+1-303-552-8888",
+      "email": "charlesb@barrettfinancial.com",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "NMLS",
+        "value": "1909129"
+      },
+      "worksFor": { "@id": "#barrett" },
+      "knowsAbout": ["Conventional Loan", "FHA Loan", "VA Loan", "Jumbo Loan", "Mortgage Refinance", "Cash-Out Refinance", "Reverse Mortgage", "HECM", "Non-QM Loan", "Bank Statement Loan", "DSCR Loan", "Bridge Loan", "First-Time Homebuyer Programs", "Investment Property Financing", "Self-Employed Mortgage"],
+      "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.85",
+        "bestRating": "5",
+        "worstRating": "1",
+        "ratingCount": "184",
+        "reviewCount": "184"
+      },
+      "url": "https://www.experience.com/reviews/charles-bacigalupi-1761586846",
+      "sameAs": [
+        "https://www.linkedin.com/in/charles-bacigalupi-iii/",
+        "https://www.experience.com/reviews/charles-bacigalupi-1761586846"
+      ],
+      "areaServed": [
+        { "@type": "State", "name": "Arizona" },
+        { "@type": "State", "name": "Colorado" },
+        { "@type": "State", "name": "California" },
+        { "@type": "State", "name": "Texas" },
+        { "@type": "State", "name": "Florida" },
+        { "@type": "State", "name": "Washington" },
+        { "@type": "State", "name": "New Jersey" }
+      ],
+      "slogan": "Check with Chuck."
+    },
+    {
+      "@type": "FinancialService",
+      "@id": "#barrett",
+      "name": "Barrett Financial Group, LLC",
+      "alternateName": "Barrett Financial",
+      "description": "Top-rated mortgage broker offering conventional, FHA, VA, jumbo, refinance, and reverse mortgage loans.",
+      "telephone": "+1-303-552-8888",
+      "email": "charlesb@barrettfinancial.com",
+      "identifier": {
+        "@type": "PropertyValue",
+        "propertyID": "NMLS",
+        "value": "181106"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "2701 East Insight Way, Suite 150",
+        "addressLocality": "Chandler",
+        "addressRegion": "AZ",
+        "postalCode": "85286",
+        "addressCountry": "US"
+      },
+      "employee": { "@id": "#charles" },
+      "areaServed": "United States",
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Mortgage Loan Programs",
+        "itemListElement": [
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "Conventional Mortgage", "description": "Conforming and non-conforming home loans following Fannie Mae and Freddie Mac guidelines. Down payments from 3%, fixed and adjustable-rate options, and PMI cancellable at 20% equity." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "FHA Loan", "description": "Government-backed mortgage insured by the Federal Housing Administration. 3.5% down with 580+ credit, flexible debt-to-income ratios, ideal for first-time homebuyers." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "VA Home Loan", "description": "$0 down payment mortgage guaranteed by the Department of Veterans Affairs for eligible veterans, active-duty service members, and surviving spouses. No private mortgage insurance." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "Jumbo Loan", "description": "Non-conforming high-balance mortgage for loan amounts above the FHFA conforming loan limit. Designed for luxury and high-value home purchases." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "Mortgage Refinance", "description": "Rate-and-term and cash-out refinance options including FHA Streamline, VA IRRRL, and conventional refinancing to lower payments, shorten terms, or access home equity." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "Reverse Mortgage (HECM)", "description": "Home Equity Conversion Mortgage for homeowners age 62+. Convert home equity to tax-free cash with no required monthly mortgage payments." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "Non-QM Loan", "description": "Non-Qualified Mortgage with alternative income documentation including bank statement loans, DSCR loans, P&L only, asset depletion, and 1099 income programs. Designed for self-employed borrowers, real estate investors, and high-net-worth individuals." } },
+          { "@type": "Offer", "itemOffered": { "@type": "LoanOrCredit", "name": "Bridge Loan", "description": "Short-term mortgage financing of 6-24 months that bridges the gap between buying a new home and selling an existing one. Allows non-contingent offers and fast closing in 10-21 days. Available for primary residences, second homes, investment properties, and fix-and-flip projects." } }
+        ]
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is the difference between FHA and conventional loans?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "FHA loans are insured by the Federal Housing Administration and allow down payments as low as 3.5% with credit scores of 580+, but require mortgage insurance for the life of the loan with less than 10% down. Conventional loans require a minimum 620 credit score with down payments from 3%, but PMI can be canceled once you reach 20% equity. FHA is generally better for buyers with lower credit; conventional rewards strong credit with lower long-term costs."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Who qualifies for a VA loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "VA loans are available to eligible veterans, active-duty service members, National Guard members, Reservists, and qualifying surviving spouses with a Certificate of Eligibility (COE) from the Department of Veterans Affairs. The VA does not set a minimum credit score, but most lenders require 580–620. VA loans offer $0 down payment and no private mortgage insurance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a jumbo loan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A jumbo loan is a non-conforming mortgage that exceeds the conforming loan limit set by the FHFA — $806,500 in most counties for 2026, higher in designated high-cost areas. Jumbo loans typically require a credit score of 700+, a 10–20% down payment, and 6–12 months of cash reserves."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a reverse mortgage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A reverse mortgage, formally called a Home Equity Conversion Mortgage (HECM), allows homeowners age 62 and older to convert home equity into tax-free cash without selling the home or making monthly mortgage payments. Borrowers must continue paying property taxes, insurance, and home maintenance. The loan becomes due when the last borrower permanently leaves the home."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "When does refinancing make sense?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Refinancing typically makes sense when current market rates are meaningfully below your existing rate, when you've built enough equity to remove mortgage insurance, when you want to shorten your loan term, or when you need to access home equity through a cash-out refinance for renovations, debt consolidation, or other major expenses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a Non-QM loan and who qualifies?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Non-QM (Non-Qualified Mortgage) loan is a home loan that uses alternative income documentation rather than traditional tax returns and W-2s. Common Non-QM programs include bank statement loans (12 or 24 months), DSCR loans for real estate investors qualified by rental income, P&L only loans, asset depletion loans, 1099 income loans, and foreign national loans. Non-QM is designed for self-employed borrowers, business owners with significant write-offs, real estate investors, and high-net-worth individuals whose tax returns don't reflect their true earning power. Down payments typically range from 10% to 25%, with credit scores starting around 620 depending on the program."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is a bridge loan and how does it work?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A bridge loan is short-term mortgage financing — typically 6 to 24 months — that bridges the gap between buying a new home and selling your existing one. It allows homeowners to tap the equity in their current home to fund the down payment or full purchase of a new property, then pay off the bridge loan when the existing home sells. Bridge loans enable buyers to make non-contingent offers in competitive markets and often close in 10 to 21 days. Real estate investors also use bridge loans for fix-and-flip projects and time-sensitive acquisitions where conventional financing is too slow."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the bankruptcy waiting period to qualify for a mortgage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Bankruptcy waiting periods vary by loan program. Conventional loans require 4 years from Chapter 7 discharge, or 2 years from Chapter 13 discharge (4 years from dismissal). FHA, VA, and USDA loans require only 2 years from Chapter 7 discharge, with Chapter 13 borrowers eligible after 1 year of on-time payments with court approval. Jumbo loans typically require 4-7 years. Non-QM loans offer the most flexibility, with some programs allowing financing as soon as 1 day out of bankruptcy with a higher down payment. Waiting periods generally start from the discharge or dismissal date."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the maximum seller concession by loan program?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Maximum seller concessions vary by loan program and down payment. Conventional loans allow 3% with less than 10% down, 6% with 10-25% down, and 9% with 25%+ down (2% for investment properties). FHA allows 6% regardless of down payment. VA allows 4% in concessions plus unlimited standard closing costs paid by the seller. USDA allows 6%. Jumbo loans typically follow conventional limits: 3% / 6% / 9%. These caps apply to all seller-paid items including closing costs, prepaid expenses, and discount points."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long after foreclosure can I get a mortgage?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Foreclosure waiting periods depend on the loan program. Conventional loans require 7 years (or 3 years with documented extenuating circumstances). FHA and USDA loans require 3 years. VA loans require 2 years and may reduce remaining entitlement. Jumbo loans typically require 7 years. Non-QM programs offer flexibility with some lenders allowing financing as soon as 1 day out of foreclosure with stronger down payments. Re-established credit history with consistent on-time payments is essential regardless of the time threshold."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
+<title>For Realtors · Quick Reference Guidelines | Check with Chuck</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500;9..144,600;9..144,700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+
+<!-- Calendly Popup Widget -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+
+<style>
+  :root {
+    --charcoal-950: #0e1014;
+    --charcoal-900: #14171d;
+    --charcoal-800: #1c2028;
+    --charcoal-700: #262a34;
+    --charcoal-600: #3a3f4c;
+    --charcoal-300: #aab0bc;
+    --charcoal-200: #c8cdd6;
+    --bone: #f4f1ea;
+    --bone-soft: #ebe6dc;
+    --warm: #c9905a;          /* warm accent: brushed copper */
+    --warm-bright: #e0a76b;
+    --warm-deep: #a4733f;
+    --line: rgba(244, 241, 234, 0.08);
+    --line-strong: rgba(244, 241, 234, 0.16);
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--charcoal-950);
+    color: var(--bone);
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Fraunces', Georgia, serif;
+    font-weight: 400;
+    line-height: 1.1;
+    letter-spacing: -0.02em;
+  }
+
+  a { color: inherit; text-decoration: none; }
+  button { font-family: inherit; cursor: pointer; border: none; background: none; color: inherit; }
+  img { max-width: 100%; display: block; }
+
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: 0 32px;
+  }
+
+  /* ---------- TOP COMPLIANCE BANNER ---------- */
+  .top-banner {
+    background: var(--charcoal-900);
+    border-bottom: 1px solid var(--line);
+    padding: 8px 0;
+    font-size: 12px;
+    color: var(--charcoal-300);
+    letter-spacing: 0.04em;
+  }
+  .top-banner .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+  }
+  .top-banner .badges { display: flex; gap: 24px; align-items: center; }
+  .top-banner .badge { display: inline-flex; align-items: center; gap: 6px; }
+  .eho-icon {
+    width: 14px; height: 14px;
+    display: inline-block;
+    border: 1px solid var(--charcoal-300);
+    position: relative;
+    border-radius: 1px;
+  }
+  .eho-icon::before {
+    content: ''; position: absolute; inset: 2px;
+    background:
+      linear-gradient(45deg, transparent 47%, var(--charcoal-300) 47%, var(--charcoal-300) 53%, transparent 53%),
+      linear-gradient(-45deg, transparent 47%, var(--charcoal-300) 47%, var(--charcoal-300) 53%, transparent 53%);
+  }
+
+  /* ---------- HEADER / NAV ---------- */
+  header.nav {
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(14, 16, 20, 0.92);
+    backdrop-filter: blur(14px);
+    -webkit-backdrop-filter: blur(14px);
+    border-bottom: 1px solid var(--line);
+  }
+  .nav-inner {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 18px 0;
+  }
+  .brand {
+    display: flex; align-items: center; gap: 16px;
+  }
+  .brand-logo {
+    height: 56px;
+    width: auto;
+    display: block;
+  }
+  .brand-divider {
+    width: 1px;
+    height: 36px;
+    background: var(--line-strong);
+  }
+  .brand-text { line-height: 1.2; }
+  .brand-name {
+    font-family: 'Fraunces', serif;
+    font-size: 17px;
+    color: var(--bone);
+    letter-spacing: -0.01em;
+  }
+  .brand-sub {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--warm);
+    margin-top: 2px;
+  }
+  .nav-links {
+    display: flex; gap: 36px; align-items: center;
+    font-size: 14px;
+    color: var(--charcoal-200);
+  }
+  .nav-links a { transition: color 0.2s; }
+  .nav-links a:hover { color: var(--warm-bright); }
+  .nav-cta {
+    background: var(--warm);
+    color: var(--charcoal-950);
+    padding: 11px 22px;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    transition: all 0.2s;
+  }
+  .nav-cta:hover { background: var(--warm-bright); transform: translateY(-1px); }
+
+  .nav-social {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    min-width: 38px;
+    background: var(--charcoal-800);
+    border: 1px solid var(--line-strong);
+    border-radius: 2px;
+    color: #f4f1ea !important;
+    transition: all 0.2s;
+    flex-shrink: 0;
+    text-decoration: none;
+    overflow: visible;
+  }
+  .nav-social:hover {
+    background: var(--warm);
+    border-color: var(--warm);
+    color: #0e1014 !important;
+    transform: translateY(-1px);
+  }
+  .nav-social svg {
+    width: 18px !important;
+    height: 18px !important;
+    fill: currentColor !important;
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+  }
+  .nav-social svg path {
+    fill: currentColor !important;
+  }
+
+  .mobile-toggle { display: none; }
+
+  /* ---------- SLOGAN ELEMENTS ---------- */
+  .slogan-mark {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-weight: 400;
+    color: var(--warm);
+    letter-spacing: -0.01em;
+  }
+  .hero-slogan {
+    display: inline-flex;
+    align-items: baseline;
+    gap: 14px;
+    margin-bottom: 28px;
+    padding: 10px 20px 10px 0;
+    border-left: 2px solid var(--warm);
+    padding-left: 20px;
+  }
+  .hero-slogan .slogan-mark {
+    font-size: 28px;
+    line-height: 1;
+  }
+  .hero-slogan .slogan-tag {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--charcoal-300);
+  }
+  .card-slogan {
+    text-align: center;
+    padding: 14px 0 4px;
+    margin-top: 20px;
+    border-top: 1px solid var(--line);
+  }
+  .card-slogan .slogan-mark {
+    font-size: 22px;
+  }
+  .card-slogan .slogan-sub {
+    display: block;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--charcoal-300);
+    margin-top: 4px;
+  }
+  .footer-slogan {
+    font-family: 'Fraunces', serif;
+    font-style: italic;
+    font-size: 20px;
+    color: var(--warm);
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    align-self: flex-start;
+  }
+  .footer-social-row {
+    display: flex; gap: 10px;
+    align-items: center;
+    margin-top: 4px;
+  }
+  .footer-social {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px; height: 38px;
+    background: var(--charcoal-800);
+    border: 1px solid var(--line-strong);
+    border-radius: 2px;
+    color: var(--bone);
+    transition: all 0.2s;
+  }
+  .footer-social:hover {
+    background: var(--warm);
+    border-color: var(--warm);
+    color: var(--charcoal-950);
+    transform: translateY(-1px);
+  }
+  .footer-social svg {
+    width: 17px; height: 17px;
+    fill: currentColor;
+    display: block;
+  }
+
+  /* ---------- HERO ---------- */
+  .hero {
+    position: relative;
+    padding: 100px 0 120px;
+    overflow: hidden;
+  }
+  .hero::before {
+    content: '';
+    position: absolute; inset: 0;
+    background:
+      radial-gradient(ellipse 80% 50% at 70% 20%, rgba(201, 144, 90, 0.12), transparent 60%),
+      radial-gradient(ellipse 60% 40% at 20% 80%, rgba(201, 144, 90, 0.06), transparent 60%);
+    pointer-events: none;
+  }
+  .hero::after {
+    content: '';
+    position: absolute; inset: 0;
+    background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.5'/%3E%3C/svg%3E");
+    opacity: 0.04;
+    pointer-events: none;
+    mix-blend-mode: overlay;
+  }
+  .hero-grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1.3fr 1fr;
+    gap: 80px;
+    align-items: center;
+  }
+  .hero-eyebrow {
+    display: inline-flex; align-items: center; gap: 12px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--warm);
+    margin-bottom: 32px;
+  }
+  .hero-eyebrow::before {
+    content: ''; width: 32px; height: 1px; background: var(--warm);
+  }
+  h1.hero-title {
+    font-size: clamp(48px, 6.5vw, 84px);
+    font-weight: 300;
+    margin-bottom: 32px;
+    color: var(--bone);
+  }
+  h1.hero-title em {
+    font-style: italic;
+    color: var(--warm);
+    font-weight: 400;
+  }
+  .hero-lede {
+    font-size: 18px;
+    color: var(--charcoal-200);
+    max-width: 540px;
+    margin-bottom: 16px;
+    line-height: 1.65;
+  }
+  .hero-officer {
+    font-size: 14px;
+    color: var(--charcoal-300);
+    margin-bottom: 40px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+  }
+  .hero-officer strong { color: var(--bone); font-weight: 500; }
+  .hero-ctas { display: flex; gap: 16px; flex-wrap: wrap; }
+  .btn-primary {
+    background: var(--warm);
+    color: var(--charcoal-950);
+    padding: 16px 32px;
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    transition: all 0.25s;
+    display: inline-flex; align-items: center; gap: 10px;
+  }
+  .btn-primary:hover { background: var(--warm-bright); transform: translateY(-2px); box-shadow: 0 12px 28px rgba(201, 144, 90, 0.25); }
+  .btn-secondary {
+    background: transparent;
+    color: var(--bone);
+    padding: 16px 32px;
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    border: 1px solid var(--line-strong);
+    transition: all 0.25s;
+    display: inline-flex; align-items: center; gap: 10px;
+  }
+  .btn-secondary:hover { border-color: var(--warm); color: var(--warm); }
+
+  /* hero card */
+  .officer-card {
+    position: relative;
+    background: linear-gradient(180deg, var(--charcoal-800), var(--charcoal-900));
+    border: 1px solid var(--line);
+    padding: 40px 36px;
+    border-radius: 2px;
+  }
+  .officer-card::before {
+    content: '';
+    position: absolute; top: -1px; left: -1px; right: -1px; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--warm), transparent);
+  }
+  .officer-portrait {
+    width: 100%;
+    aspect-ratio: 3 / 4;
+    margin-bottom: 28px;
+    position: relative;
+    overflow: hidden;
+    border: 1px solid var(--line);
+    background: var(--charcoal-800);
+  }
+  .officer-portrait img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center top;
+    display: block;
+  }
+  .officer-portrait::after {
+    content: '';
+    position: absolute; inset: 0;
+    background: linear-gradient(180deg, transparent 60%, rgba(14, 16, 20, 0.4));
+    pointer-events: none;
+  }
+  .officer-name {
+    font-family: 'Fraunces', serif;
+    font-size: 26px;
+    color: var(--bone);
+    margin-bottom: 4px;
+    letter-spacing: -0.01em;
+  }
+  .officer-role {
+    font-size: 13px;
+    color: var(--warm);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 20px;
+  }
+  .officer-meta {
+    border-top: 1px solid var(--line);
+    padding-top: 18px;
+    display: grid; gap: 8px;
+    font-size: 13px;
+    color: var(--charcoal-200);
+  }
+  .officer-meta div { display: flex; justify-content: space-between; gap: 16px; }
+  .officer-meta span:first-child {
+    color: var(--charcoal-300);
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-size: 11px;
+  }
+
+  /* review badge in officer card */
+  .review-badge {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 16px 0;
+    margin-top: 18px;
+    border-top: 1px solid var(--line);
+    text-decoration: none;
+    transition: opacity 0.2s;
+  }
+  .review-badge:hover { opacity: 0.85; }
+  .review-stars {
+    display: flex; gap: 2px;
+  }
+  .review-star {
+    width: 14px; height: 14px;
+    color: var(--warm);
+  }
+  .review-content {
+    line-height: 1.3;
+  }
+  .review-rating-line {
+    font-family: 'Fraunces', serif;
+    font-size: 15px;
+    color: var(--bone);
+  }
+  .review-rating-line strong {
+    color: var(--warm);
+    font-weight: 500;
+  }
+  .review-source {
+    font-size: 10px;
+    color: var(--charcoal-300);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-top: 3px;
+  }
+
+  /* ---------- TRUST STRIP ---------- */
+  .trust-strip {
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    background: var(--charcoal-900);
+    padding: 28px 0;
+  }
+  .trust-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 32px;
+    align-items: center;
+  }
+  .trust-item {
+    text-align: center;
+    border-right: 1px solid var(--line);
+    padding-right: 32px;
+  }
+  .trust-item:last-child { border-right: none; padding-right: 0; }
+  .trust-num {
+    font-family: 'Fraunces', serif;
+    font-size: 36px;
+    color: var(--warm);
+    font-weight: 400;
+    letter-spacing: -0.02em;
+  }
+  .trust-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--charcoal-300);
+    margin-top: 4px;
+  }
+  .trust-states {
+    font-size: 10px;
+    letter-spacing: 0.18em;
+    color: var(--warm);
+    margin-top: 6px;
+    font-weight: 500;
+  }
+
+  /* ---------- SECTION BASE ---------- */
+  section { padding: 120px 0; position: relative; }
+  .section-eyebrow {
+    display: inline-flex; align-items: center; gap: 12px;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--warm);
+    margin-bottom: 24px;
+  }
+  .section-eyebrow::before {
+    content: ''; width: 24px; height: 1px; background: var(--warm);
+  }
+  h2.section-title {
+    font-size: clamp(36px, 4.5vw, 56px);
+    font-weight: 300;
+    margin-bottom: 24px;
+    max-width: 860px;
+  }
+  h2.section-title em { font-style: italic; color: var(--warm); }
+  .section-lede {
+    font-size: 18px;
+    color: var(--charcoal-200);
+    max-width: 680px;
+    margin-bottom: 64px;
+    line-height: 1.65;
+  }
+
+  /* ---------- LOAN PROGRAMS ---------- */
+  .programs {
+    background: var(--charcoal-950);
+  }
+  .programs-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1px;
+    background: var(--line);
+    border: 1px solid var(--line);
+  }
+  .program {
+    background: var(--charcoal-900);
+    padding: 44px 40px 40px;
+    transition: background 0.3s;
+    position: relative;
+  }
+  .program:hover { background: var(--charcoal-800); }
+  .program-head {
+    display: flex; justify-content: space-between; align-items: baseline;
+    border-bottom: 1px solid var(--line);
+    padding-bottom: 20px;
+    margin-bottom: 24px;
+  }
+  .program-num {
+    font-family: 'Fraunces', serif;
+    font-size: 12px;
+    color: var(--warm);
+    letter-spacing: 0.12em;
+  }
+  .program-tag {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--charcoal-300);
+    padding: 4px 10px;
+    border: 1px solid var(--line-strong);
+    border-radius: 2px;
+  }
+  .program-title {
+    font-family: 'Fraunces', serif;
+    font-size: 30px;
+    color: var(--bone);
+    margin-bottom: 6px;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+  .program-subtitle {
+    font-size: 13px;
+    color: var(--warm);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 18px;
+  }
+  .program-desc {
+    font-size: 15px;
+    color: var(--charcoal-200);
+    line-height: 1.7;
+    margin-bottom: 22px;
+  }
+  .program-best-for {
+    background: rgba(201, 144, 90, 0.06);
+    border-left: 2px solid var(--warm);
+    padding: 12px 16px;
+    margin-bottom: 24px;
+    font-size: 13px;
+    color: var(--charcoal-200);
+    line-height: 1.6;
+  }
+  .program-best-for strong {
+    display: block;
+    color: var(--warm);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 4px;
+    font-weight: 600;
+  }
+  .program-features {
+    list-style: none;
+    font-size: 13.5px;
+    color: var(--charcoal-200);
+    border-top: 1px solid var(--line);
+    padding-top: 22px;
+  }
+  .program-features li {
+    padding: 7px 0;
+    display: flex; align-items: flex-start; gap: 10px;
+    line-height: 1.55;
+  }
+  .program-features li::before {
+    content: ''; width: 4px; height: 4px;
+    background: var(--warm);
+    margin-top: 9px;
+    flex-shrink: 0;
+  }
+  .program-features li strong { color: var(--bone); font-weight: 500; }
+
+  /* ---------- CALCULATOR ---------- */
+  .calc-section {
+    background: linear-gradient(180deg, var(--charcoal-950), var(--charcoal-900));
+    border-top: 1px solid var(--line);
+  }
+  .calc-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 64px;
+    align-items: start;
+  }
+  .calc-form {
+    background: var(--charcoal-800);
+    border: 1px solid var(--line);
+    padding: 40px;
+    border-radius: 2px;
+  }
+  .calc-field {
+    margin-bottom: 24px;
+  }
+  .calc-field label {
+    display: block;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--charcoal-300);
+    margin-bottom: 8px;
+  }
+  .calc-input-wrap {
+    position: relative;
+    display: flex; align-items: center;
+  }
+  .calc-input-wrap .prefix,
+  .calc-input-wrap .suffix {
+    position: absolute;
+    color: var(--charcoal-300);
+    font-size: 16px;
+    pointer-events: none;
+  }
+  .calc-input-wrap .prefix { left: 16px; }
+  .calc-input-wrap .suffix { right: 16px; }
+  .calc-form input[type="number"],
+  .calc-form input[type="text"],
+  .calc-form select {
+    width: 100%;
+    background: var(--charcoal-900);
+    border: 1px solid var(--line-strong);
+    color: var(--bone);
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    padding: 14px 16px 14px 32px;
+    border-radius: 2px;
+    transition: border-color 0.2s;
+    -moz-appearance: textfield;
+  }
+  .calc-form input.no-prefix {
+    padding-left: 16px;
+  }
+  .calc-form input.has-suffix {
+    padding-right: 32px;
+  }
+  .calc-form input[type="number"]::-webkit-outer-spin-button,
+  .calc-form input[type="number"]::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }
+  .calc-form input:focus, .calc-form select:focus {
+    outline: none;
+    border-color: var(--warm);
+  }
+  .calc-form select {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23c9905a' fill='none' stroke-width='1.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    padding-right: 40px;
+    padding-left: 16px;
+  }
+  .calc-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .calc-disclaimer {
+    font-size: 11px;
+    color: var(--charcoal-300);
+    line-height: 1.6;
+    margin-top: 24px;
+    padding-top: 20px;
+    border-top: 1px solid var(--line);
+  }
+
+  /* result panel */
+  .calc-result {
+    position: sticky; top: 100px;
+  }
+  .result-card {
+    background: var(--charcoal-900);
+    border: 1px solid var(--line);
+    padding: 40px;
+    border-radius: 2px;
+    position: relative;
+    overflow: hidden;
+  }
+  .result-card::before {
+    content: '';
+    position: absolute; top: 0; left: 0; right: 0; height: 2px;
+    background: linear-gradient(90deg, var(--warm-deep), var(--warm-bright), var(--warm-deep));
+  }
+  .result-label {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--charcoal-300);
+    margin-bottom: 12px;
+  }
+  .result-payment {
+    font-family: 'Fraunces', serif;
+    font-size: 72px;
+    line-height: 1;
+    color: var(--warm);
+    font-weight: 300;
+    letter-spacing: -0.03em;
+    margin-bottom: 8px;
+  }
+  .result-payment .cents {
+    font-size: 32px;
+    color: var(--warm-deep);
+    vertical-align: top;
+    margin-left: 4px;
+  }
+  .result-period {
+    font-size: 14px;
+    color: var(--charcoal-200);
+    margin-bottom: 36px;
+  }
+  .result-breakdown {
+    border-top: 1px solid var(--line);
+    padding-top: 24px;
+    display: grid; gap: 14px;
+  }
+  .result-row {
+    display: flex; justify-content: space-between; align-items: baseline;
+    font-size: 14px;
+  }
+  .result-row .label { color: var(--charcoal-300); font-size: 13px; }
+  .result-row .value { color: var(--bone); font-family: 'Fraunces', serif; font-size: 18px; }
+  .result-cta {
+    display: block;
+    width: 100%;
+    background: var(--warm);
+    color: var(--charcoal-950);
+    padding: 16px;
+    text-align: center;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin-top: 28px;
+    transition: background 0.2s;
+  }
+  .result-cta:hover { background: var(--warm-bright); }
+
+  /* ---------- REVIEWS SECTION ---------- */
+  .reviews {
+    background: var(--charcoal-900);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+  }
+  .reviews-grid {
+    display: grid;
+    grid-template-columns: 1.1fr 1fr;
+    gap: 80px;
+    align-items: center;
+  }
+  .reviews-summary {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .big-rating {
+    display: flex;
+    align-items: baseline;
+    gap: 16px;
+  }
+  .rating-number {
+    font-family: 'Fraunces', serif;
+    font-size: 96px;
+    line-height: 1;
+    color: var(--warm);
+    font-weight: 300;
+    letter-spacing: -0.04em;
+  }
+  .rating-meta { display: flex; flex-direction: column; gap: 6px; }
+  .rating-stars-large {
+    display: flex; gap: 4px;
+  }
+  .rating-stars-large svg {
+    width: 22px; height: 22px;
+    color: var(--warm);
+  }
+  .rating-count {
+    font-size: 14px;
+    color: var(--charcoal-200);
+  }
+  .rating-count strong { color: var(--bone); }
+  .rating-sources {
+    display: flex;
+    gap: 32px;
+    flex-wrap: wrap;
+    padding: 24px 0;
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    margin: 8px 0 24px;
+  }
+  .rating-source-item {
+    display: flex; flex-direction: column; gap: 4px;
+  }
+  .rating-source-name {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--charcoal-300);
+  }
+  .rating-source-score {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    color: var(--bone);
+  }
+  .rating-source-score em {
+    font-style: normal;
+    color: var(--charcoal-300);
+    font-size: 14px;
+  }
+  .reviews-cta-row {
+    display: flex; gap: 16px; flex-wrap: wrap;
+  }
+
+  .reviews-quotes {
+    display: flex; flex-direction: column; gap: 16px;
+  }
+  .review-quote-card {
+    background: var(--charcoal-800);
+    border: 1px solid var(--line);
+    border-left: 2px solid var(--warm);
+    padding: 24px 28px;
+    border-radius: 2px;
+  }
+  .review-quote-stars {
+    display: flex; gap: 2px; margin-bottom: 12px;
+  }
+  .review-quote-stars svg {
+    width: 13px; height: 13px;
+    color: var(--warm);
+  }
+  .review-quote-text {
+    font-family: 'Fraunces', serif;
+    font-size: 17px;
+    line-height: 1.5;
+    color: var(--bone);
+    font-style: italic;
+    margin-bottom: 14px;
+  }
+  .review-quote-source {
+    display: flex; justify-content: space-between; align-items: center;
+    font-size: 12px;
+    color: var(--charcoal-300);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+  }
+  .review-quote-source span:last-child {
+    color: var(--warm);
+  }
+
+  /* ---------- PROCESS ---------- */
+  .process { background: var(--charcoal-900); border-top: 1px solid var(--line); }
+  .process-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 0;
+    border-top: 1px solid var(--line);
+  }
+  .step {
+    padding: 40px 28px 32px;
+    border-right: 1px solid var(--line);
+    position: relative;
+  }
+  .step:last-child { border-right: none; }
+  .step-timeline {
+    display: inline-block;
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--warm);
+    background: rgba(201, 144, 90, 0.08);
+    border: 1px solid rgba(201, 144, 90, 0.25);
+    padding: 5px 10px;
+    margin-bottom: 24px;
+    border-radius: 2px;
+  }
+  .step-num {
+    font-family: 'Fraunces', serif;
+    font-size: 56px;
+    color: var(--warm);
+    font-weight: 300;
+    line-height: 1;
+    letter-spacing: -0.04em;
+    margin-bottom: 20px;
+  }
+  .step-title {
+    font-family: 'Fraunces', serif;
+    font-size: 20px;
+    color: var(--bone);
+    margin-bottom: 12px;
+  }
+  .step-desc {
+    font-size: 14px;
+    color: var(--charcoal-200);
+    line-height: 1.6;
+  }
+  .process-footer {
+    text-align: center;
+    margin-top: 48px;
+    padding-top: 32px;
+    border-top: 1px solid var(--line);
+    font-size: 13px;
+    color: var(--charcoal-300);
+    letter-spacing: 0.04em;
+  }
+  .process-footer strong { color: var(--bone); font-weight: 500; }
+
+  /* ---------- RESOURCES / REFERENCE TABLES ---------- */
+  .resources {
+    background: var(--charcoal-950);
+    border-top: 1px solid var(--line);
+  }
+  .resources-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    flex-wrap: wrap;
+    gap: 24px;
+    margin-bottom: 56px;
+  }
+  .resources-header-text { max-width: 700px; }
+  .resources-header h2.section-title { margin-bottom: 20px; }
+  .agent-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: rgba(201, 144, 90, 0.10);
+    border: 1px solid rgba(201, 144, 90, 0.3);
+    padding: 8px 14px;
+    border-radius: 2px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--warm);
+    font-weight: 500;
+  }
+  .agent-badge::before {
+    content: '';
+    width: 6px; height: 6px;
+    background: var(--warm);
+    border-radius: 50%;
+  }
+
+  .ref-table-wrap {
+    background: var(--charcoal-900);
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    margin-bottom: 32px;
+    overflow: hidden;
+    scroll-margin-top: 100px;
+  }
+  .ref-table-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 24px 32px;
+    border-bottom: 1px solid var(--line);
+    background: var(--charcoal-800);
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .ref-table-title {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    color: var(--bone);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+  .ref-table-title-sub {
+    display: block;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.14em;
+    color: var(--warm);
+    margin-bottom: 4px;
+    font-weight: 500;
+  }
+  .copy-link-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: transparent;
+    border: 1px solid var(--line-strong);
+    color: var(--charcoal-200);
+    padding: 8px 14px;
+    border-radius: 2px;
+    font-size: 12px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  .copy-link-btn:hover {
+    border-color: var(--warm);
+    color: var(--warm);
+  }
+  .copy-link-btn.copied {
+    background: var(--warm);
+    border-color: var(--warm);
+    color: var(--charcoal-950);
+  }
+  .copy-link-btn svg {
+    width: 13px; height: 13px;
+    fill: currentColor;
+  }
+
+  .ref-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  .ref-table th {
+    text-align: left;
+    padding: 16px 20px;
+    background: var(--charcoal-800);
+    color: var(--charcoal-300);
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-weight: 600;
+    border-bottom: 1px solid var(--line);
+    white-space: nowrap;
+  }
+  .ref-table th:first-child { padding-left: 32px; }
+  .ref-table th:last-child { padding-right: 32px; }
+  .ref-table td {
+    padding: 18px 20px;
+    border-bottom: 1px solid var(--line);
+    color: var(--charcoal-200);
+    line-height: 1.5;
+    vertical-align: top;
+  }
+  .ref-table td:first-child { padding-left: 32px; }
+  .ref-table td:last-child { padding-right: 32px; }
+  .ref-table tr:last-child td { border-bottom: none; }
+  .ref-table tr:hover td { background: rgba(255, 255, 255, 0.02); }
+  .ref-table .program-cell {
+    font-family: 'Fraunces', serif;
+    font-size: 17px;
+    color: var(--bone);
+    font-weight: 400;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+  }
+  .ref-table .program-cell .program-cell-sub {
+    display: block;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    color: var(--charcoal-300);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-top: 2px;
+    font-weight: 400;
+  }
+  .ref-table .value {
+    font-family: 'Fraunces', serif;
+    color: var(--warm);
+    font-size: 16px;
+    white-space: nowrap;
+  }
+  .ref-table .note {
+    font-size: 12.5px;
+    color: var(--charcoal-300);
+    line-height: 1.5;
+  }
+  .ref-table-footer {
+    padding: 18px 32px;
+    border-top: 1px solid var(--line);
+    background: var(--charcoal-800);
+    font-size: 11.5px;
+    color: var(--charcoal-300);
+    line-height: 1.6;
+  }
+  .ref-table-footer strong { color: var(--bone); font-weight: 500; }
+  .resources-disclaimer {
+    margin-top: 32px;
+    padding: 20px 24px;
+    background: rgba(255, 255, 255, 0.02);
+    border-left: 2px solid var(--charcoal-600);
+    font-size: 12px;
+    color: var(--charcoal-300);
+    line-height: 1.7;
+    border-radius: 2px;
+  }
+  .resources-disclaimer strong { color: var(--charcoal-200); font-weight: 600; }
+
+  /* ---------- TODAY'S MARKET / MBS LIVE WIDGET ---------- */
+  .market {
+    background: var(--charcoal-900);
+    border-top: 1px solid var(--line);
+    border-bottom: 1px solid var(--line);
+    position: relative;
+    overflow: hidden;
+  }
+  .market::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: radial-gradient(ellipse 60% 50% at 80% 30%, rgba(201, 144, 90, 0.06), transparent 60%);
+    pointer-events: none;
+  }
+  .market-grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 56px;
+    align-items: start;
+  }
+  .market-content { padding-right: 16px; }
+  .live-indicator {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--warm);
+    margin-bottom: 24px;
+    padding: 6px 12px;
+    background: rgba(201, 144, 90, 0.08);
+    border: 1px solid rgba(201, 144, 90, 0.25);
+    border-radius: 2px;
+    font-weight: 500;
+  }
+  .live-dot {
+    width: 6px; height: 6px;
+    background: var(--warm);
+    border-radius: 50%;
+    animation: livepulse 2s ease-in-out infinite;
+  }
+  @keyframes livepulse {
+    0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(201, 144, 90, 0.6); }
+    50% { opacity: 0.8; box-shadow: 0 0 0 6px rgba(201, 144, 90, 0); }
+  }
+
+  .market-explainer {
+    margin-top: 32px;
+    padding-top: 32px;
+    border-top: 1px solid var(--line);
+  }
+  .market-explainer h3 {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    color: var(--bone);
+    margin-bottom: 16px;
+    font-weight: 400;
+  }
+  .market-explainer p {
+    font-size: 14.5px;
+    line-height: 1.7;
+    color: var(--charcoal-200);
+    margin-bottom: 14px;
+  }
+  .market-explainer p strong { color: var(--bone); font-weight: 500; }
+  .market-explainer .key-point {
+    background: rgba(201, 144, 90, 0.05);
+    border-left: 2px solid var(--warm);
+    padding: 14px 18px;
+    margin-top: 16px;
+    font-size: 13.5px;
+    line-height: 1.6;
+    color: var(--charcoal-200);
+  }
+
+  /* Widget wrapper - dark themed widget sits naturally in section */
+  .widget-stage {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 16px;
+  }
+  .widget-frame {
+    position: relative;
+    border-radius: 2px;
+    overflow: hidden;
+    box-shadow:
+      0 24px 48px -16px rgba(0, 0, 0, 0.5),
+      0 0 0 1px var(--line);
+  }
+  .widget-frame::before {
+    content: '';
+    position: absolute;
+    top: -1px; left: -1px; right: -1px; height: 2px;
+    background: linear-gradient(90deg, transparent, var(--warm), transparent);
+    z-index: 2;
+    pointer-events: none;
+  }
+  .widget-attribution {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--charcoal-300);
+    text-align: center;
+    padding-top: 4px;
+  }
+  .widget-attribution strong { color: var(--bone); font-weight: 600; }
+
+  /* Newsletter CTA card */
+  .newsletter-cta {
+    margin-top: 56px;
+    padding: 40px 48px;
+    background: var(--charcoal-800);
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    display: grid;
+    grid-template-columns: 1.2fr auto;
+    gap: 40px;
+    align-items: center;
+    position: relative;
+    overflow: hidden;
+  }
+  .newsletter-cta::before {
+    content: '';
+    position: absolute; top: 0; left: 0; bottom: 0;
+    width: 3px;
+    background: var(--warm);
+  }
+  .newsletter-cta h3 {
+    font-family: 'Fraunces', serif;
+    font-size: 26px;
+    color: var(--bone);
+    margin-bottom: 8px;
+    font-weight: 400;
+    letter-spacing: -0.01em;
+  }
+  .newsletter-cta p {
+    font-size: 14px;
+    color: var(--charcoal-200);
+    line-height: 1.6;
+    max-width: 540px;
+  }
+  .newsletter-cta .btn-primary {
+    white-space: nowrap;
+    align-self: center;
+  }
+
+  /* ---------- ABOUT ---------- */
+  .about {
+    background: var(--bone);
+    color: var(--charcoal-900);
+  }
+  .about .section-eyebrow,
+  .about .section-eyebrow::before { color: var(--warm-deep); background: var(--warm-deep); }
+  .about .section-eyebrow { background: transparent; color: var(--warm-deep); }
+  .about .section-eyebrow::before { background: var(--warm-deep); }
+  .about h2.section-title { color: var(--charcoal-900); }
+  .about h2.section-title em { color: var(--warm-deep); }
+  .about .section-lede { color: var(--charcoal-700); }
+
+  .about-grid {
+    display: grid;
+    grid-template-columns: 1.4fr 1fr;
+    gap: 80px;
+  }
+  .about-body p {
+    color: var(--charcoal-700);
+    font-size: 17px;
+    line-height: 1.75;
+    margin-bottom: 20px;
+  }
+  .about-quote {
+    font-family: 'Fraunces', serif;
+    font-size: 26px;
+    line-height: 1.4;
+    color: var(--charcoal-900);
+    font-style: italic;
+    padding: 28px 0;
+    border-top: 2px solid var(--warm-deep);
+    border-bottom: 1px solid rgba(14, 16, 20, 0.1);
+    margin: 32px 0;
+  }
+  .credentials {
+    background: white;
+    border: 1px solid rgba(14, 16, 20, 0.08);
+    padding: 36px;
+    border-radius: 2px;
+  }
+  .credentials h3 {
+    font-size: 20px;
+    margin-bottom: 24px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid rgba(14, 16, 20, 0.08);
+  }
+  .credentials dl {
+    display: grid; gap: 18px;
+  }
+  .credentials dt {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--charcoal-600);
+    margin-bottom: 4px;
+  }
+  .credentials dd {
+    font-size: 16px;
+    color: var(--charcoal-900);
+  }
+  .credentials a { color: var(--warm-deep); }
+  .credentials a:hover { text-decoration: underline; }
+
+  /* ---------- CTA / LEAD CAPTURE ---------- */
+  .cta-section {
+    background: var(--charcoal-950);
+    position: relative;
+    overflow: hidden;
+  }
+  .cta-section::before {
+    content: '';
+    position: absolute; inset: 0;
+    background: radial-gradient(ellipse 70% 60% at 50% 50%, rgba(201, 144, 90, 0.10), transparent 70%);
+  }
+  .cta-grid {
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+  .cta-card {
+    background: var(--charcoal-900);
+    border: 1px solid var(--line);
+    padding: 44px 40px;
+    border-radius: 2px;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+  }
+  .cta-card:hover {
+    border-color: var(--warm);
+    transform: translateY(-4px);
+  }
+  .cta-card-num {
+    font-family: 'Fraunces', serif;
+    font-size: 12px;
+    color: var(--warm);
+    letter-spacing: 0.12em;
+    margin-bottom: 24px;
+  }
+  .cta-card h3 {
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  .cta-card p {
+    color: var(--charcoal-200);
+    font-size: 15px;
+    margin-bottom: 28px;
+    line-height: 1.65;
+  }
+  .cta-card-btn {
+    display: inline-flex; align-items: center; gap: 10px;
+    color: var(--warm);
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    font-weight: 600;
+    padding-bottom: 4px;
+    border-bottom: 1px solid var(--warm);
+    transition: gap 0.25s;
+  }
+  .cta-card:hover .cta-card-btn { gap: 16px; }
+
+  /* ---------- CONTACT FORM ---------- */
+  .contact {
+    background: var(--charcoal-900);
+    border-top: 1px solid var(--line);
+  }
+  .contact-grid {
+    display: grid;
+    grid-template-columns: 1fr 1.2fr;
+    gap: 80px;
+    align-items: start;
+  }
+  .contact-info dl { display: grid; gap: 24px; margin-top: 40px; }
+  .contact-info dt {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--charcoal-300);
+    margin-bottom: 6px;
+  }
+  .contact-info dd {
+    font-family: 'Fraunces', serif;
+    font-size: 22px;
+    color: var(--bone);
+  }
+  .contact-info dd a { transition: color 0.2s; }
+  .contact-info dd a:hover { color: var(--warm); }
+
+  .contact-form {
+    background: var(--charcoal-800);
+    border: 1px solid var(--line);
+    padding: 44px;
+    border-radius: 2px;
+  }
+  .contact-form .calc-row { margin-bottom: 24px; }
+  .contact-form .calc-field { margin-bottom: 24px; }
+  .contact-form input,
+  .contact-form select,
+  .contact-form textarea {
+    width: 100%;
+    background: var(--charcoal-900);
+    border: 1px solid var(--line-strong);
+    color: var(--bone);
+    font-family: 'Inter', sans-serif;
+    font-size: 15px;
+    padding: 14px 16px;
+    border-radius: 2px;
+    transition: border-color 0.2s;
+  }
+  .contact-form textarea { min-height: 110px; resize: vertical; font-family: inherit; }
+  .contact-form input:focus,
+  .contact-form select:focus,
+  .contact-form textarea:focus {
+    outline: none; border-color: var(--warm);
+  }
+  .contact-form select {
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg width='12' height='8' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23c9905a' fill='none' stroke-width='1.5'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    padding-right: 40px;
+  }
+  .form-consent {
+    display: flex; gap: 12px; align-items: flex-start;
+    font-size: 12px;
+    color: var(--charcoal-300);
+    line-height: 1.6;
+    margin-bottom: 24px;
+  }
+  .form-consent input { width: 16px; height: 16px; margin-top: 3px; flex-shrink: 0; accent-color: var(--warm); }
+  .form-consent a { color: var(--warm); text-decoration: underline; }
+  .form-submit {
+    width: 100%;
+    background: var(--warm);
+    color: var(--charcoal-950);
+    padding: 16px;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: background 0.2s;
+  }
+  .form-submit:hover { background: var(--warm-bright); }
+  .form-status {
+    margin-top: 16px; font-size: 13px; color: var(--charcoal-200);
+    min-height: 20px;
+  }
+
+  /* ---------- FOOTER ---------- */
+  footer {
+    background: var(--charcoal-950);
+    border-top: 1px solid var(--line);
+    padding: 64px 0 32px;
+    font-size: 13px;
+    color: var(--charcoal-300);
+  }
+  .footer-top {
+    display: grid;
+    grid-template-columns: 1.5fr 1fr 1fr 1fr;
+    gap: 48px;
+    padding-bottom: 48px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 36px;
+  }
+  .footer-brand-block {
+    display: flex; flex-direction: column; gap: 20px;
+    align-items: flex-start;
+  }
+  .footer-logo {
+    height: 72px;
+    width: auto;
+    max-width: 280px;
+    opacity: 0.92;
+  }
+  .footer-officer-line {
+    font-family: 'Fraunces', serif;
+    font-size: 18px;
+    color: var(--bone);
+    letter-spacing: -0.01em;
+  }
+  .footer-officer-line span {
+    display: block;
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    color: var(--warm);
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    margin-top: 4px;
+  }
+  .footer-brand p {
+    color: var(--charcoal-300);
+    line-height: 1.7;
+    max-width: 320px;
+    font-size: 13px;
+  }
+  .footer-col h4 {
+    font-family: 'Inter', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.16em;
+    color: var(--bone);
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+  .footer-col ul { list-style: none; display: grid; gap: 12px; }
+  .footer-col a { transition: color 0.2s; }
+  .footer-col a:hover { color: var(--warm); }
+
+  /* ---------- COMPLIANCE BLOCK ---------- */
+  .compliance {
+    font-size: 11px;
+    line-height: 1.7;
+    color: var(--charcoal-300);
+    padding: 32px 0;
+    border-top: 1px solid var(--line);
+    background: var(--charcoal-900);
+  }
+  .compliance .container > * + * { margin-top: 14px; }
+  .compliance-row {
+    display: flex; gap: 24px; flex-wrap: wrap; align-items: center;
+    padding-bottom: 16px;
+    border-bottom: 1px solid var(--line);
+    margin-bottom: 16px;
+  }
+  .compliance-row .badges { display: flex; gap: 28px; flex-wrap: wrap; }
+  .compliance .nmls-block {
+    color: var(--bone);
+    font-size: 12px;
+  }
+  .compliance .nmls-block strong { color: var(--bone); }
+  .compliance .licenses {
+    color: var(--charcoal-300);
+    font-size: 10.5px;
+    line-height: 1.7;
+    word-break: break-word;
+  }
+  .compliance .supplemental-disclaimer {
+    color: var(--charcoal-400, #9aa0a8);
+    font-size: 10px;
+    line-height: 1.65;
+    margin-top: 14px;
+    padding-top: 14px;
+    border-top: 1px solid rgba(244, 241, 234, 0.06);
+    font-style: italic;
+  }
+  .compliance .copyright {
+    display: flex; justify-content: space-between; flex-wrap: wrap; gap: 16px;
+    padding-top: 16px;
+    border-top: 1px solid var(--line);
+    color: var(--charcoal-300);
+    font-size: 11px;
+  }
+  .copyright-links { display: flex; gap: 20px; flex-wrap: wrap; }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 960px) {
+    .container { padding: 0 24px; }
+    .brand-divider { display: none; }
+    .brand-text { display: none; }
+    .brand-logo { height: 46px; }
+    .nav-social { width: auto; height: auto; border: none; padding: 8px 0; justify-content: flex-start; }
+    .nav-social::after { content: 'Connect on LinkedIn'; margin-left: 12px; font-size: 14px; }
+    .nav-links { display: none; position: fixed; top: 80px; left: 0; right: 0; background: var(--charcoal-900); flex-direction: column; padding: 24px; gap: 20px; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+    .nav-links.open { display: flex; }
+    .mobile-toggle {
+      display: grid; place-items: center;
+      width: 40px; height: 40px;
+      border: 1px solid var(--line-strong);
+    }
+    .mobile-toggle span {
+      display: block; width: 18px; height: 1px; background: var(--bone);
+      position: relative;
+    }
+    .mobile-toggle span::before, .mobile-toggle span::after {
+      content: ''; position: absolute; width: 18px; height: 1px; background: var(--bone); left: 0;
+    }
+    .mobile-toggle span::before { top: -6px; }
+    .mobile-toggle span::after { top: 6px; }
+
+    section { padding: 80px 0; }
+    .hero { padding: 64px 0 80px; }
+    .hero-grid { grid-template-columns: 1fr; gap: 48px; }
+    .programs-grid { grid-template-columns: 1fr; }
+    .program { padding: 36px 28px 32px; }
+    .calc-grid { grid-template-columns: 1fr; gap: 32px; }
+    .calc-result { position: static; }
+    .process-grid { grid-template-columns: 1fr 1fr; }
+    .step { border-bottom: 1px solid var(--line); }
+    .step:nth-child(odd) { border-right: 1px solid var(--line); }
+    .step:nth-child(even) { border-right: none; }
+    .about-grid { grid-template-columns: 1fr; gap: 48px; }
+    .reviews-grid { grid-template-columns: 1fr; gap: 48px; }
+    .rating-number { font-size: 72px; }
+    .resources-header { flex-direction: column; align-items: flex-start; }
+    .market-grid { grid-template-columns: 1fr; gap: 56px; }
+    .market-content { padding-right: 0; }
+    .widget-stage { margin: 0 auto; }
+    .newsletter-cta { grid-template-columns: 1fr; gap: 24px; padding: 32px 28px; }
+    .newsletter-cta .btn-primary { justify-self: flex-start; }
+    .cta-grid { grid-template-columns: 1fr; }
+    .contact-grid { grid-template-columns: 1fr; gap: 48px; }
+    .footer-top { grid-template-columns: 1fr 1fr; gap: 32px; }
+    .trust-grid { grid-template-columns: 1fr 1fr; gap: 24px; }
+    .trust-item:nth-child(odd) { border-right: 1px solid var(--line); padding-right: 24px; }
+    .trust-item:nth-child(even) { border-right: none; padding-right: 0; }
+    .trust-item:nth-child(-n+2) { padding-bottom: 24px; border-bottom: 1px solid var(--line); margin-bottom: 24px; }
+  }
+
+  /* ==========================================================
+     PHONE/TABLET: Reference tables convert to readable cards
+     Triggers at 900px to ensure tablets in portrait also benefit
+     ========================================================== */
+  @media (max-width: 900px) {
+    /* Wrapper: remove constraints, allow content to flow */
+    .ref-table-wrap {
+      overflow: visible !important;
+    }
+
+    /* Table loses its tabular structure entirely */
+    .ref-table,
+    .ref-table thead,
+    .ref-table tbody,
+    .ref-table tr,
+    .ref-table th,
+    .ref-table td {
+      display: block !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      box-sizing: border-box !important;
+    }
+
+    /* Hide the table headers (they'll appear as data-labels above each cell) */
+    .ref-table thead {
+      display: none !important;
+    }
+
+    /* Each row becomes a bordered card */
+    .ref-table tr {
+      padding: 20px !important;
+      margin: 0 !important;
+      border: none !important;
+      border-bottom: 1px solid rgba(244, 241, 234, 0.08) !important;
+      background: transparent !important;
+    }
+    .ref-table tr:last-child {
+      border-bottom: none !important;
+    }
+    .ref-table tr:hover,
+    .ref-table tr:hover td {
+      background: transparent !important;
+    }
+
+    /* Reset cell padding */
+    .ref-table td {
+      padding: 12px 0 !important;
+      border: none !important;
+      white-space: normal !important;
+      vertical-align: top !important;
+      text-align: left !important;
+    }
+    .ref-table td:first-child {
+      padding-top: 0 !important;
+    }
+    .ref-table td:last-child {
+      padding-bottom: 0 !important;
+    }
+
+    /* Program cell (first cell): big bold header for the card */
+    .ref-table .program-cell {
+      font-family: 'Fraunces', serif !important;
+      font-size: 22px !important;
+      line-height: 1.2 !important;
+      color: var(--bone) !important;
+      font-weight: 400 !important;
+      padding-bottom: 16px !important;
+      margin-bottom: 4px !important;
+      border-bottom: 1px solid rgba(244, 241, 234, 0.1) !important;
+    }
+    .ref-table .program-cell .program-cell-sub {
+      display: block !important;
+      font-family: 'Inter', sans-serif !important;
+      font-size: 11px !important;
+      color: var(--charcoal-300) !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.1em !important;
+      margin-top: 4px !important;
+      font-weight: 400 !important;
+    }
+
+    /* Data labels appear above each cell value */
+    .ref-table td[data-label]::before {
+      content: attr(data-label);
+      display: block !important;
+      font-size: 10px !important;
+      text-transform: uppercase !important;
+      letter-spacing: 0.16em !important;
+      color: var(--warm) !important;
+      margin-bottom: 6px !important;
+      font-weight: 600 !important;
+      font-family: 'Inter', sans-serif !important;
+    }
+
+    /* Value cells: copper, prominent */
+    .ref-table .value {
+      font-family: 'Fraunces', serif !important;
+      font-size: 18px !important;
+      line-height: 1.4 !important;
+      color: var(--warm) !important;
+      white-space: normal !important;
+    }
+
+    /* Note cells: smaller, lighter, italic feel */
+    .ref-table .note {
+      font-size: 13.5px !important;
+      line-height: 1.55 !important;
+      color: var(--charcoal-200) !important;
+    }
+
+    /* Header section adjustments */
+    .ref-table-head {
+      flex-direction: column !important;
+      align-items: flex-start !important;
+      padding: 20px !important;
+      gap: 14px !important;
+    }
+    .ref-table-title {
+      font-size: 19px !important;
+      line-height: 1.25 !important;
+    }
+    .ref-table-title-sub {
+      font-size: 10px !important;
+    }
+    .copy-link-btn {
+      width: 100% !important;
+      justify-content: center !important;
+      padding: 11px !important;
+      font-size: 12px !important;
+    }
+
+    /* Footer adjustments */
+    .ref-table-footer {
+      padding: 16px 20px !important;
+      font-size: 12.5px !important;
+      line-height: 1.55 !important;
+    }
+  }
+
+  @media (max-width: 560px) {
+    .top-banner { font-size: 11px; }
+    .top-banner .badges { gap: 16px; }
+    .calc-row { grid-template-columns: 1fr; }
+    .result-payment { font-size: 56px; }
+    .footer-top { grid-template-columns: 1fr; }
+    .process-grid { grid-template-columns: 1fr; }
+    .step { border-right: none !important; border-bottom: 1px solid var(--line); }
+    .step:last-child { border-bottom: none; }
+  }
+</style>
+</head>
+<body>
+
+<style>
+  /* Subpage-specific styles */
+  .nav-active {
+    color: var(--warm) !important;
+    border-bottom: 1px solid var(--warm);
+  }
+  .page-intro h1.section-title {
+    font-size: clamp(36px, 5vw, 56px);
+  }
+  .subpage-back-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--warm);
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 24px;
+    transition: color 0.2s ease;
+  }
+  .subpage-back-link:hover {
+    color: var(--warm-bright);
+  }
+  .subpage-cta-section {
+    background: var(--charcoal-900);
+    padding: 80px 0;
+    border-top: 1px solid rgba(164, 115, 63, 0.2);
+  }
+  .subpage-cta-card {
+    background: var(--charcoal-800);
+    border: 1px solid rgba(164, 115, 63, 0.3);
+    border-radius: 8px;
+    padding: 48px;
+    text-align: center;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  .subpage-cta-card h2 {
+    font-family: 'Fraunces', Georgia, serif;
+    font-size: clamp(28px, 4vw, 40px);
+    color: var(--bone);
+    margin: 0 0 16px;
+  }
+  .subpage-cta-card h2 em {
+    color: var(--warm-bright);
+    font-style: italic;
+  }
+  .subpage-cta-card p {
+    color: var(--charcoal-200);
+    font-size: 16px;
+    line-height: 1.6;
+    margin: 0 0 32px;
+  }
+  .subpage-cta-buttons {
+    display: flex;
+    gap: 16px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+</style>
+<!-- ============ TOP COMPLIANCE BANNER ============ -->
+<div class="top-banner">
+  <div class="container">
+    <div class="badges">
+      <span class="badge"><span class="eho-icon"></span> Equal Housing Opportunity</span>
+      <span class="badge">NMLS&nbsp;#1909129</span>
+    </div>
+    <div class="badges">
+      <span class="badge">Barrett Financial Group, LLC&nbsp;·&nbsp;NMLS&nbsp;#181106</span>
+    </div>
+  </div>
+</div>
+
+
+<!-- ============ HEADER ============ -->
+<header class="nav">
+  <div class="container nav-inner">
+    <a href="/" class="brand">
+      <img src="../assets/powered-by-barrett-white.png" alt="Powered by Barrett Financial Group" class="brand-logo" />
+      <div class="brand-divider"></div>
+      <div class="brand-text">
+        <div class="brand-name">Charles Bacigalupi III</div>
+        <div class="brand-sub">Mortgage Loan Originator · NMLS #1909129</div>
+      </div>
+    </a>
+    <nav class="nav-links" id="navLinks">
+      <a href="/#programs">Loan Programs</a>
+      <a href="/#calculator">Calculator</a>
+      <a href="/rates">Today's Rates</a>
+      <a href="/agents" class="nav-active">Agents</a>
+      <a href="/#reviews">Reviews</a>
+      <a href="/#about">About</a>
+      <a href="/#contact">Contact</a>
+      <a href="https://www.linkedin.com/in/charles-bacigalupi-iii/" target="_blank" rel="noopener" class="nav-social" aria-label="Connect on LinkedIn">
+        <svg viewBox="0 0 24 24" width="18" height="18" xmlns="http://www.w3.org/2000/svg" fill="#f4f1ea"><path fill="#f4f1ea" d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.95v5.66H9.36V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zm-1.78 13.02h3.55V9H3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg>
+      </a>
+      <a href="/#start" class="nav-cta">Apply Now</a>
+    </nav>
+    <button class="mobile-toggle" aria-label="Menu" id="mobileToggle"><span></span></button>
+  </div>
+</header>
+
+<!-- ============ PAGE INTRO ============ -->
+<section class="page-intro" style="background: var(--charcoal-950); padding: 80px 0 40px;">
+  <div class="container">
+    <div class="section-eyebrow" style="color: var(--warm); margin-bottom: 12px;">FOR REALTORS &amp; BORROWERS</div>
+    <h1 class="section-title" style="margin-top: 0;">Quick reference, <em>when you need it.</em></h1>
+    <p class="section-lede" style="max-width: 760px;">
+      Bookmark-worthy loan program guidelines for the questions that come up mid-transaction. Bankruptcy waiting periods, seller concession limits, foreclosure timelines — all in one place. Share any table directly with your client by tapping the copy link button.
+    </p>
+    <div style="margin-top: 32px; display: flex; gap: 16px; flex-wrap: wrap; align-items: center;">
+      <a href="tel:+13035528888" class="btn-primary">Call (303) 552-8888</a>
+      <a href="/#contact" class="btn-secondary">Send a Message →</a>
+      <span style="color: var(--charcoal-200); font-size: 14px;">Licensed in <strong style="color: var(--bone);">7 states</strong>: AZ · CO · CA · TX · FL · WA · NJ</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ WHY AGENTS SECTION ============ -->
+<section style="background: var(--charcoal-900); padding: 60px 0; border-top: 1px solid rgba(164, 115, 63, 0.15);">
+  <div class="container">
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 32px;">
+      <div>
+        <div style="color: var(--warm); font-weight: 600; font-size: 12px; letter-spacing: 1px; margin-bottom: 8px;">14–21 DAY CLOSE</div>
+        <div style="color: var(--bone); font-size: 18px; line-height: 1.5;">Cleared-to-close timelines that hold up offer dates and keep your transactions moving.</div>
+      </div>
+      <div>
+        <div style="color: var(--warm); font-weight: 600; font-size: 12px; letter-spacing: 1px; margin-bottom: 8px;">MULTI-STATE LICENSING</div>
+        <div style="color: var(--bone); font-size: 18px; line-height: 1.5;">Licensed in AZ, CO, CA, TX, FL, WA, NJ — your relocating or out-of-state clients stay with you.</div>
+      </div>
+      <div>
+        <div style="color: var(--warm); font-weight: 600; font-size: 12px; letter-spacing: 1px; margin-bottom: 8px;">DIRECT CELL ACCESS</div>
+        <div style="color: var(--bone); font-size: 18px; line-height: 1.5;">Real-time answers when a buyer asks a question on Saturday. No 1-800 routing, no missed calls.</div>
+      </div>
+      <div>
+        <div style="color: var(--warm); font-weight: 600; font-size: 12px; letter-spacing: 1px; margin-bottom: 8px;">COMPLEX SCENARIOS</div>
+        <div style="color: var(--bone); font-size: 18px; line-height: 1.5;">VA, Non-QM, DSCR, self-employed, bank statement — the deals other LOs decline.</div>
+      </div>
+    </div>
+  </div>
+</section>
+<section class="resources" id="resources">
+  <div class="container">
+    <!-- TABLE 1: BANKRUPTCY WAITING PERIODS -->
+    <div class="ref-table-wrap" id="bankruptcy-waiting-periods">
+      <div class="ref-table-head">
+        <div>
+          <span class="ref-table-title-sub">Reference Table 01</span>
+          <div class="ref-table-title">Bankruptcy Waiting Periods by Loan Program</div>
+        </div>
+        <button class="copy-link-btn" data-anchor="bankruptcy-waiting-periods" aria-label="Copy direct link to this table">
+          <svg viewBox="0 0 16 16"><path d="M11 1H3a2 2 0 00-2 2v9h2V3h8V1zm3 3H7a2 2 0 00-2 2v9a2 2 0 002 2h7a2 2 0 002-2V6a2 2 0 00-2-2zm0 11H7V6h7v9z"/></svg>
+          <span class="copy-text">Copy Link</span>
+        </button>
+      </div>
+      <table class="ref-table">
+        <thead>
+          <tr>
+            <th>Loan Program</th>
+            <th>Chapter 7</th>
+            <th>Chapter 13</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="program-cell">Conventional<span class="program-cell-sub">Fannie / Freddie</span></td>
+            <td class="value" data-label="Chapter 7">4 years</td>
+            <td class="value" data-label="Chapter 13">2 years from discharge<br>4 years from dismissal</td>
+            <td class="note" data-label="Notes">Re-established credit and no late payments since BK.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">FHA<span class="program-cell-sub">Government-insured</span></td>
+            <td class="value" data-label="Chapter 7">2 years</td>
+            <td class="value" data-label="Chapter 13">1 year of on-time payments<br>(with court approval)</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">VA<span class="program-cell-sub">Veterans Affairs</span></td>
+            <td class="value" data-label="Chapter 7">2 years</td>
+            <td class="value" data-label="Chapter 13">1 year of on-time payments<br>(with court approval)</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">USDA<span class="program-cell-sub">Rural Development</span></td>
+            <td class="value" data-label="Chapter 7">3 years</td>
+            <td class="value" data-label="Chapter 13">1 year of on-time payments<br>(with court approval)</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may reduce Ch. 7 to 1 year.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">Jumbo<span class="program-cell-sub">Non-conforming</span></td>
+            <td class="value" data-label="Chapter 7">4–7 years</td>
+            <td class="value" data-label="Chapter 13">4–7 years</td>
+            <td class="note" data-label="Notes">Varies significantly by lender; reserves often required.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">Non-QM<span class="program-cell-sub">Alt-doc programs</span></td>
+            <td class="value" data-label="Chapter 7">1 day – 2 years</td>
+            <td class="value" data-label="Chapter 13">1 day – 2 years</td>
+            <td class="note" data-label="Notes">Some Non-QM lenders allow financing 1 day out of BK with higher down payment.</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="ref-table-footer">
+        <strong>Pro tip:</strong> Waiting periods generally start from the discharge or dismissal date — not the filing date. A buyer with a recent BK isn't necessarily disqualified — Non-QM programs may still work.
+      </div>
+    </div>
+
+    <!-- TABLE 2: SELLER CONCESSIONS -->
+    <div class="ref-table-wrap" id="seller-concessions">
+      <div class="ref-table-head">
+        <div>
+          <span class="ref-table-title-sub">Reference Table 02</span>
+          <div class="ref-table-title">Maximum Seller Concessions by Loan Program</div>
+        </div>
+        <button class="copy-link-btn" data-anchor="seller-concessions" aria-label="Copy direct link to this table">
+          <svg viewBox="0 0 16 16"><path d="M11 1H3a2 2 0 00-2 2v9h2V3h8V1zm3 3H7a2 2 0 00-2 2v9a2 2 0 002 2h7a2 2 0 002-2V6a2 2 0 00-2-2zm0 11H7V6h7v9z"/></svg>
+          <span class="copy-text">Copy Link</span>
+        </button>
+      </div>
+      <table class="ref-table">
+        <thead>
+          <tr>
+            <th>Loan Program</th>
+            <th>Primary &lt; 10% Down</th>
+            <th>Primary 10–25% Down</th>
+            <th>Primary 25%+ / Investment</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="program-cell">Conventional<span class="program-cell-sub">Owner-occupied</span></td>
+            <td class="value" data-label="Primary < 10% Down">3%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">9% / 2% (investment)</td>
+          </tr>
+          <tr>
+            <td class="program-cell">FHA<span class="program-cell-sub">Government-insured</span></td>
+            <td class="value" data-label="Primary < 10% Down">6%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">6%</td>
+          </tr>
+          <tr>
+            <td class="program-cell">VA<span class="program-cell-sub">Veterans Affairs</span></td>
+            <td class="value" data-label="Primary < 10% Down">4% (concessions)<br>+ unlimited closing costs</td>
+            <td class="value" data-label="Primary 10–25% Down">4% (concessions)<br>+ unlimited closing costs</td>
+            <td class="value" data-label="Primary 25%+ / Investment">N/A — primary only</td>
+          </tr>
+          <tr>
+            <td class="program-cell">USDA<span class="program-cell-sub">Rural Development</span></td>
+            <td class="value" data-label="Primary < 10% Down">6%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">N/A — primary only</td>
+          </tr>
+          <tr>
+            <td class="program-cell">Jumbo<span class="program-cell-sub">Non-conforming</span></td>
+            <td class="value" data-label="Primary < 10% Down">3%</td>
+            <td class="value" data-label="Primary 10–25% Down">6%</td>
+            <td class="value" data-label="Primary 25%+ / Investment">9%</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="ref-table-footer">
+        <strong>Important distinction:</strong> Conventional, FHA, USDA, and Jumbo concessions cap <em>all</em> seller-paid costs (closing costs, prepaids, discount points). VA is unique — the 4% cap applies only to "concessions" (e.g., funding fee, debts paid off), while standard closing costs paid by the seller are <em>unlimited</em>.
+      </div>
+    </div>
+
+    <!-- TABLE 3: FORECLOSURE & SHORT SALE WAITING PERIODS -->
+    <div class="ref-table-wrap" id="foreclosure-waiting-periods">
+      <div class="ref-table-head">
+        <div>
+          <span class="ref-table-title-sub">Reference Table 03</span>
+          <div class="ref-table-title">Foreclosure &amp; Short Sale Waiting Periods</div>
+        </div>
+        <button class="copy-link-btn" data-anchor="foreclosure-waiting-periods" aria-label="Copy direct link to this table">
+          <svg viewBox="0 0 16 16"><path d="M11 1H3a2 2 0 00-2 2v9h2V3h8V1zm3 3H7a2 2 0 00-2 2v9a2 2 0 002 2h7a2 2 0 002-2V6a2 2 0 00-2-2zm0 11H7V6h7v9z"/></svg>
+          <span class="copy-text">Copy Link</span>
+        </button>
+      </div>
+      <table class="ref-table">
+        <thead>
+          <tr>
+            <th>Loan Program</th>
+            <th>Foreclosure</th>
+            <th>Short Sale / Deed-in-Lieu</th>
+            <th>Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="program-cell">Conventional<span class="program-cell-sub">Fannie / Freddie</span></td>
+            <td class="value" data-label="Foreclosure">7 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">4 years</td>
+            <td class="note" data-label="Notes">Reduced to 3 years for foreclosure with documented extenuating circumstances.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">FHA<span class="program-cell-sub">Government-insured</span></td>
+            <td class="value" data-label="Foreclosure">3 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">3 years</td>
+            <td class="note" data-label="Notes">Extenuating circumstances may waive entirely. Borrower must be current at short sale.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">VA<span class="program-cell-sub">Veterans Affairs</span></td>
+            <td class="value" data-label="Foreclosure">2 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">2 years</td>
+            <td class="note" data-label="Notes">Prior VA foreclosure may reduce remaining entitlement.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">USDA<span class="program-cell-sub">Rural Development</span></td>
+            <td class="value" data-label="Foreclosure">3 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">3 years</td>
+            <td class="note" data-label="Notes">Federal debt (CAIVRS) clearance required.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">Jumbo<span class="program-cell-sub">Non-conforming</span></td>
+            <td class="value" data-label="Foreclosure">7 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">4–7 years</td>
+            <td class="note" data-label="Notes">Lender-specific overlays often apply; reserves typically required.</td>
+          </tr>
+          <tr>
+            <td class="program-cell">Non-QM<span class="program-cell-sub">Alt-doc programs</span></td>
+            <td class="value" data-label="Foreclosure">1 day – 3 years</td>
+            <td class="value" data-label="Short Sale / Deed-in-Lieu">1 day – 3 years</td>
+            <td class="note" data-label="Notes">"1-day-out" programs available with stronger down payment and pricing.</td>
+          </tr>
+        </tbody>
+      </table>
+      <div class="ref-table-footer">
+        <strong>Pro tip:</strong> Re-established credit history after the event is the key qualifier. Even if a borrower meets the time threshold, lenders need to see consistent on-time payments and a recovered credit profile.
+      </div>
+    </div>
+
+    <div class="resources-disclaimer">
+      <strong>Disclaimer:</strong> Information in these tables is provided as a general guideline as of 2026 and is not a commitment to lend. Individual lenders may apply more restrictive overlays, and program guidelines are subject to change. Specific scenarios — including extenuating circumstances, manual underwriting, and Non-QM exceptions — should be reviewed case-by-case. Always verify current guidelines before structuring an offer or making a commitment to a borrower. <strong>Questions on a specific scenario? Check with Chuck.</strong>
+    </div>
+  </div>
+</section>
+
+<!-- ============ CTA SECTION ============ -->
+<section class="subpage-cta-section">
+  <div class="container">
+    <div class="subpage-cta-card">
+      <h2>Have a scenario you want to <em>run by me?</em></h2>
+      <p>
+        These tables cover the most common questions. For everything else — niche scenarios, recent credit events, complex income, out-of-state purchases, anything where a buyer needs creative structuring — let's talk it through. Same-day response during business hours.
+      </p>
+      <div class="subpage-cta-buttons">
+        <a href="tel:+13035528888" class="btn-primary">Call (303) 552-8888</a>
+        <a href="mailto:charlesb@barrettfinancial.com" class="btn-secondary">Email Charles →</a>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="container">
+    <div class="footer-top">
+      <div class="footer-brand">
+        <div class="footer-brand-block">
+          <img src="../assets/powered-by-barrett-white.png" alt="Powered by Barrett Financial Group" class="footer-logo" />
+          <div class="footer-officer-line">
+            Charles Peter Bacigalupi III
+            <span>NMLS #1909129 · Mortgage Loan Originator</span>
+          </div>
+          <p>Helping clients across the country secure home financing tailored to their goals — backed by Barrett Financial Group, LLC, a top-rated national mortgage broker.</p>
+          <div class="footer-social-row">
+            <a href="https://www.linkedin.com/in/charles-bacigalupi-iii/" target="_blank" rel="noopener" class="footer-social" aria-label="Connect on LinkedIn">
+              <svg viewBox="0 0 24 24" width="17" height="17" xmlns="http://www.w3.org/2000/svg" fill="#f4f1ea"><path fill="#f4f1ea" d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.95v5.66H9.36V9h3.41v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zm-1.78 13.02h3.55V9H3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg>
+            </a>
+            <a href="https://www.experience.com/reviews/charles-bacigalupi-1761586846" target="_blank" rel="noopener" class="footer-social" aria-label="Reviews on Experience.com">
+              <svg viewBox="0 0 24 24" width="17" height="17" xmlns="http://www.w3.org/2000/svg" fill="#f4f1ea"><path fill="#f4f1ea" d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
+            </a>
+          </div>
+          <div class="footer-slogan">Check with Chuck.</div>
+        </div>
+      </div>
+      <div class="footer-col">
+        <h4>Loan Programs</h4>
+        <ul>
+          <li><a href="/#conventional">Conventional</a></li>
+          <li><a href="/#fha">FHA</a></li>
+          <li><a href="/#va">VA</a></li>
+          <li><a href="/#jumbo">Jumbo</a></li>
+          <li><a href="/#refinance">Refinance</a></li>
+          <li><a href="/#reverse">Reverse Mortgage</a></li>
+          <li><a href="/#non-qm">Non-QM</a></li>
+          <li><a href="/#bridge">Bridge Loan</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Get Started</h4>
+        <ul>
+          <li><a href="/#calendly">Schedule a Call</a></li>
+          <li><a href="/#start">Apply Now</a></li>
+          <li><a href="/#calculator">Mortgage Calculator</a></li>
+          <li><a href="/#contact">Contact Charles</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Resources</h4>
+        <ul>
+          <li><a href="/#resources">Realtor Resources</a></li>
+          <li><a href="/#bankruptcy-waiting-periods">Bankruptcy Waiting Periods</a></li>
+          <li><a href="/#seller-concessions">Seller Concession Limits</a></li>
+          <li><a href="/#foreclosure-waiting-periods">Foreclosure Waiting Periods</a></li>
+          <li><a href="/rates">Today's Mortgage Rates</a></li>
+          <li><a href="/agents">Realtor Quick Reference</a></li>
+          <li><a href="https://www.nmlsconsumeraccess.org/" target="_blank" rel="noopener">NMLS Consumer Access</a></li>
+          <li><a href="https://www.barrettfinancial.com/licensing" target="_blank" rel="noopener">State Licenses</a></li>
+          <li><a href="https://www.barrettfinancial.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ============ COMPLIANCE BLOCK ============ -->
+  <div class="compliance">
+    <div class="container">
+      <div class="compliance-row">
+        <div class="badges">
+          <span class="badge"><span class="eho-icon"></span> Equal Housing Opportunity</span>
+          <span class="badge">Equal Housing Lender</span>
+        </div>
+      </div>
+
+      <div class="licenses">
+        <strong style="color:var(--bone);">Charles Bacigalupi</strong> | NMLS #1909129 | <strong style="color:var(--bone);">Barrett Financial Group, L.L.C.</strong> | NMLS #181106 | 2701 East Insight Way, Suite 150, Chandler, AZ 85286 | AZ 0904774 | CA 60DBO-46052 &amp; 41DBO-148702 Licensed by Dept. of Financial Protection &amp; Innovation under the California Residential Mortgage Lending Act. Loans made or arranged pursuant to a California Financing Law License. | CO | FL MLD1880 | NJ 181106 | TX view complaint policy at <a href="https://www.barrettfinancial.com/texas-complaint" target="_blank" rel="noopener" style="color:var(--warm);">www.barrettfinancial.com/texas-complaint</a> | WA MB-181106 | Equal Housing Opportunity | Equal Housing Lender | This is not a commitment to lend. All loans are subject to credit approval. | <a href="https://www.nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/181106" target="_blank" rel="noopener" style="color:var(--warm);">nmlsconsumeraccess.org/EntityDetails.aspx/COMPANY/181106</a>
+      </div>
+
+      <div class="supplemental-disclaimer">
+        All loans are subject to credit approval, income verification, and property appraisal. Rates, terms, and program availability are subject to change without notice. Information on this website is for general informational purposes only and does not constitute financial, legal, or tax advice. Calculator results are estimates only and may not reflect your final loan terms. Please consult a licensed Mortgage Loan Originator for guidance specific to your situation.
+      </div>
+
+      <div class="copyright">
+        <div>© <span id="year"></span> Charles Bacigalupi · Barrett Financial Group, L.L.C. All rights reserved.</div>
+        <div class="copyright-links">
+          <a href="https://www.barrettfinancial.com/privacy-policy" target="_blank" rel="noopener">Privacy Policy</a>
+          <a href="https://www.barrettfinancial.com/licensing" target="_blank" rel="noopener">Licensing</a>
+          <a href="https://www.barrettfinancial.com/" target="_blank" rel="noopener">Accessibility</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script>
+  // Year
+  document.getElementById('year').textContent = new Date().getFullYear();
+
+  // Mobile nav toggle
+  document.getElementById('mobileToggle').addEventListener('click', () => {
+    document.getElementById('navLinks').classList.toggle('open');
+  });
+  document.querySelectorAll('#navLinks a').forEach(a => {
+    a.addEventListener('click', () => document.getElementById('navLinks').classList.remove('open'));
+  });
+
+  // ===== CALCULATOR =====
+  const $ = id => document.getElementById(id);
+  const homePrice = $('homePrice');
+  const downPayment = $('downPayment');
+  const downPercent = $('downPercent');
+  const rateInput = $('rate');
+  const termInput = $('term');
+  const taxesInput = $('taxes');
+  const insuranceInput = $('insurance');
+
+  const fmt = n => '$' + Math.round(n).toLocaleString('en-US');
+  const fmtMoney = n => {
+    const whole = Math.floor(Math.abs(n));
+    const cents = Math.round((Math.abs(n) - whole) * 100).toString().padStart(2, '0');
+    return '$' + whole.toLocaleString('en-US') + '<span class="cents">.' + cents + '</span>';
+  };
+
+  let syncing = false;
+  function syncFromAmount() {
+    if (syncing) return; syncing = true;
+    const price = +homePrice.value || 0;
+    const dp = +downPayment.value || 0;
+    if (price > 0) downPercent.value = ((dp / price) * 100).toFixed(2);
+    syncing = false;
+  }
+  function syncFromPercent() {
+    if (syncing) return; syncing = true;
+    const price = +homePrice.value || 0;
+    const pct = +downPercent.value || 0;
+    downPayment.value = Math.round(price * (pct / 100));
+    syncing = false;
+  }
+
+  function calculate() {
+    const price = +homePrice.value || 0;
+    const dp = +downPayment.value || 0;
+    const principal = Math.max(price - dp, 0);
+    const annualRate = +rateInput.value || 0;
+    const termYears = +termInput.value || 30;
+    const monthlyRate = (annualRate / 100) / 12;
+    const n = termYears * 12;
+    const annualTax = +taxesInput.value || 0;
+    const annualIns = +insuranceInput.value || 0;
+
+    let pi = 0;
+    if (principal > 0 && monthlyRate > 0 && n > 0) {
+      pi = principal * (monthlyRate * Math.pow(1 + monthlyRate, n)) / (Math.pow(1 + monthlyRate, n) - 1);
+    } else if (principal > 0 && n > 0) {
+      pi = principal / n;
+    }
+    const monthlyTax = annualTax / 12;
+    const monthlyIns = annualIns / 12;
+    const piti = pi + monthlyTax + monthlyIns;
+    const totalInterest = (pi * n) - principal;
+
+    $('resultPayment').innerHTML = fmtMoney(piti);
+    $('resultPI').textContent = fmt(pi);
+    $('resultTax').textContent = fmt(monthlyTax);
+    $('resultIns').textContent = fmt(monthlyIns);
+    $('resultLoan').textContent = fmt(principal);
+    $('resultInterest').textContent = fmt(Math.max(totalInterest, 0));
+  }
+
+  homePrice.addEventListener('input', () => { syncFromPercent(); calculate(); });
+  downPayment.addEventListener('input', () => { syncFromAmount(); calculate(); });
+  downPercent.addEventListener('input', () => { syncFromPercent(); calculate(); });
+  [rateInput, termInput, taxesInput, insuranceInput].forEach(el => el.addEventListener('input', calculate));
+  calculate();
+
+  // ===== COPY LINK BUTTONS (Resources tables) =====
+  document.querySelectorAll('.copy-link-btn').forEach(btn => {
+    btn.addEventListener('click', async function() {
+      const anchor = this.dataset.anchor;
+      const url = `${window.location.origin}${window.location.pathname}#${anchor}`;
+      const textSpan = this.querySelector('.copy-text');
+      const originalText = textSpan.textContent;
+
+      try {
+        await navigator.clipboard.writeText(url);
+        this.classList.add('copied');
+        textSpan.textContent = 'Copied!';
+        setTimeout(() => {
+          this.classList.remove('copied');
+          textSpan.textContent = originalText;
+        }, 2000);
+      } catch (err) {
+        // Fallback for older browsers
+        const tempInput = document.createElement('input');
+        tempInput.value = url;
+        document.body.appendChild(tempInput);
+        tempInput.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempInput);
+        this.classList.add('copied');
+        textSpan.textContent = 'Copied!';
+        setTimeout(() => {
+          this.classList.remove('copied');
+          textSpan.textContent = originalText;
+        }, 2000);
+      }
+    });
+  });
+
+  // ===== LEAD FORM =====
+  document.getElementById('leadForm').addEventListener('submit', async function(e) {
+    e.preventDefault();
+    const form = this;
+    const status = document.getElementById('formStatus');
+    const submitBtn = form.querySelector('.form-submit');
+    const originalBtnText = submitBtn.textContent;
+
+    if (!form.checkValidity()) {
+      status.style.color = '#e07b6b';
+      status.textContent = 'Please complete all required fields and provide consent.';
+      return;
+    }
+
+    // Disable button and show loading state
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending...';
+    status.style.color = 'var(--charcoal-200)';
+    status.textContent = '';
+
+    // Build payload for Bonzo webhook
+    // Field names follow Bonzo's standard convention (snake_case)
+    const formData = new FormData(form);
+    const payload = {
+      first_name: formData.get('firstName'),
+      last_name: formData.get('lastName'),
+      email: formData.get('email'),
+      phone: formData.get('phone'),
+      loan_purpose: formData.get('loanPurpose'),
+      property_state: formData.get('state') || '',
+      message: formData.get('message') || '',
+      source: 'charlesbacigalupi.com',
+      consent: true,
+      consent_text: 'I agree to be contacted by Charles Peter Bacigalupi III at Barrett Financial Group, LLC by phone, email, or text regarding my mortgage inquiry. Consent is not a condition of any loan. Message and data rates may apply.',
+      consent_timestamp: new Date().toISOString(),
+      submitted_at: new Date().toISOString()
+    };
+
+    try {
+      const response = await fetch('https://app.getbonzo.com/api/webhook/95dc92a1a6b28e2c343f40f9d2c184e8', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload)
+      });
+
+      if (response.ok || response.status === 200 || response.status === 201 || response.status === 202) {
+        status.style.color = 'var(--warm-bright)';
+        status.textContent = 'Thank you — your message has been sent. Charles will be in touch shortly.';
+        form.reset();
+      } else {
+        throw new Error('Submission failed: ' + response.status);
+      }
+    } catch (err) {
+      console.error('Form submission error:', err);
+      status.style.color = '#e07b6b';
+      status.innerHTML = 'Sorry, something went wrong. Please call <a href="tel:+13035528888" style="color:var(--warm-bright);">(303) 552-8888</a> or email <a href="mailto:charlesb@barrettfinancial.com" style="color:var(--warm-bright);">charlesb@barrettfinancial.com</a> directly.';
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = originalBtnText;
+    }
+  });
+</script>
+
+</body>
+</html>
